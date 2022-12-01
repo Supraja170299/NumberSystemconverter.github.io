@@ -8,4 +8,3 @@
 # js file includes following properties such as:document.getElementsById,addEventListener,Inner.text,inner.html,onclick,result,swap,buttonconverter,Number(input.value).toString 
 methods,PasenInt for popping up with functionality to make number system converter more effevtive.
 
-
